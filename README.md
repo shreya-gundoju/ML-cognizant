@@ -1,1 +1,1 @@
-This the colab notebook from cognizant azure training 
+This the colab notebook for cognizant azure training  
